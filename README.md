@@ -28,8 +28,8 @@ Hi! My name is Adrian Thoenig 🧞‍♂️
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/adrianthoenig/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn Badge"/>
   </a>
     <a href="https://www.instagram.com/adrianthoenig_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram Badge"/>
 </div>
